@@ -26,17 +26,19 @@ Follow these steps to run the dashboard locally:
    
    cd Industrial-AI-Predictive-Maintenance-Dashboard
    
- **Create & Activate Virtual Environment:**
- 
+2. **Create & Activate Virtual Environment:**
+   ```bash
+   
    python -m venv venv
    
    .\venv\Scripts\activate
 
-**Install Dependencies:**
-
+3. **Install Dependencies:**
+   ```bash
+   
    pip install -r requirements.txt
-
-4.python -m streamlit run app.py
+   
+4. python -m streamlit run app.py
 
 **🚀 Future Considerations**
 - Integration of Time-Series Forecasting using LSTM (Deep Learning).
