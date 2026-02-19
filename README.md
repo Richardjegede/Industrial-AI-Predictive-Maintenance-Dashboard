@@ -21,14 +21,19 @@ Follow these steps to run the dashboard locally:
 
 1. **Clone the Repository:**
    ```bash
+   
    git clone https://github.com
+   
    cd Industrial-AI-Predictive-Maintenance-Dashboard
    
-2. **Create & Activate Virtual Environment:**
+ **Create & Activate Virtual Environment:**
+ 
    python -m venv venv
+   
    .\venv\Scripts\activate
 
-3. **Install Dependencies:**
+**Install Dependencies:**
+
    pip install -r requirements.txt
 
 4.python -m streamlit run app.py
