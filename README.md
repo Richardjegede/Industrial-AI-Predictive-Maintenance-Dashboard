@@ -42,11 +42,11 @@ Follow these steps to run the dashboard locally:
 
 **Features**
 
--Home: Welcome page providing an overview of the application.
--Historical Data: View historical data of machinery sensor readings and operational hours.
--Input Data: Submit input data for prediction, either manually or by generating random values.
--Results: Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
--Visualizations: Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
+- Home: Welcome page providing an overview of the application.
+- Historical Data: View historical data of machinery sensor readings and operational hours.
+- Input Data: Submit input data for prediction, either manually or by generating random values.
+- Results: Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
+- Visualizations: Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
 **🚀 Future Considerations**
 - Integration of Time-Series Forecasting using LSTM (Deep Learning).
