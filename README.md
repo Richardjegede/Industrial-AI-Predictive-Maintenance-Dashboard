@@ -49,21 +49,22 @@ Follow these steps to run the dashboard locally:
 - Visualizations: Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
 **HOME PAGE**
-
 <img width="1366" height="688" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/b2c22a9d-95f5-46a8-8af9-12079e7a2bc8" />
 
-**HISTORICAL DATA PAGE**
 
+**HISTORICAL DATA PAGE**
 <img width="1351" height="678" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/368d18a2-04e2-4367-bcdf-5be1bf5c50bd" />
 
-**INPUT DATA PAGE**
 
+**INPUT DATA PAGE**
 <img width="1353" height="695" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/9ce8df8d-a6b0-40e8-afe8-cf32bd744359" />
 <img width="1353" height="672" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/b7474a13-6601-4985-9538-8e267b11d325" />
+
 
 **RESULTS PAGE**
 <img width="1335" height="679" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7b20711c-5e0c-4a40-a4b3-7d3407a47c3b" />
 <img width="1365" height="720" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/1f4e9b4e-0a03-4046-a355-2be7cfb549d3" />
+
 
 **VISUALIZATION PAGE**
 <img width="1352" height="504" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/bf11e927-495d-4367-95f4-6b321e7ed7c3" />
@@ -74,6 +75,7 @@ Follow these steps to run the dashboard locally:
 <img width="1347" height="714" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/5478ecbc-6aa3-44dc-ab73-9d1ec61719c2" />
 <img width="1366" height="543" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/42379f6d-cb73-4293-9c13-017ea20cbfe0" />
 <img width="1341" height="683" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a88e3e88-3585-4f47-9431-5ade9ee29382" />
+
 
 
 **🚀 Future Considerations**
