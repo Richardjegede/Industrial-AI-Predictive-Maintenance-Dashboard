@@ -48,6 +48,8 @@ Follow these steps to run the dashboard locally:
 - Results: Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
 - Visualizations: Visualize historical sensor data and operational hours through histograms, scatter plots, and line charts. Optionally overlay generated input values on visualizations.
 
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/ec81e0a7-0b23-4c15-a42f-48a2741870e6" />
+
 **🚀 Future Considerations**
 - Integration of Time-Series Forecasting using LSTM (Deep Learning).
 - Transitioning from static plots to interactive Plotly JavaScript charts.
